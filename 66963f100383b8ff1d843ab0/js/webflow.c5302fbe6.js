@@ -1109,7 +1109,7 @@ __p+='`), E
                 r = document,
                 n = e("html"),
                 i = e("body"),
-                o = ".w-webflow-badge",
+            
                 a = window.location,
                 s = /PhantomJS/i.test(navigator.userAgent),
                 u = "fullscreenchange webkitfullscreenchange mozfullscreenchange msfullscreenchange",
